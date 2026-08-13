@@ -6,15 +6,11 @@ The project uses demographic, lifestyle, and symptom-related features to predict
 
 > ⚠️ **Disclaimer:** This project is developed for educational and research purposes only. It is not a medical diagnostic tool and should not replace professional medical advice.
 
----
-
 ## 🚀 Live Demo
 
 👉 **[Try the Lung Cancer Prediction App](https://lung-cancer-prediction-ml-jmnwkgvs3bawhzptf53oan.streamlit.app/)**
 
 The application is deployed using Streamlit and provides an interactive interface for lung cancer risk prediction.
-
----
 
 ## 📌 Project Overview
 
@@ -35,8 +31,6 @@ This project explores the application of machine learning to structured health-r
 - Create a deployment-friendly model artifact
 - Build an interactive Streamlit application
 - Provide input-based suggestions alongside predictions
-
----
 
 ## 🧠 Machine Learning Workflow
 
